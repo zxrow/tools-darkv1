@@ -7,9 +7,9 @@ print ("\033[1;32matau silahkan Hubungi  089655478810 ")
 
 print ("\033[1;32mScript Ini sekarang tidak gratis ")
 
-username = 'Mantan'      
+username = 'jomblo'      
 
-password = 'Sayang'
+password = 'happy'
 
 
 
